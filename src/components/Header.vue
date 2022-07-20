@@ -34,7 +34,7 @@
           <template #dropdown>
             <el-dropdown-menu>
               <a
-                href="https://github.com/ink-song/system-manage-template"
+                href="https://github.com/rookie718/Web-Management-System.git"
                 target="_blank"
               >
                 <el-dropdown-item>项目仓库</el-dropdown-item>

@@ -12,11 +12,11 @@
                     </div>
                     <div class="user-info-list">
                         上次登录时间：
-                        <span>2021-10-01</span>
+                        <span>2022-07-11</span>
                     </div>
                     <div class="user-info-list">
                         上次登录地点：
-                        <span>杭州</span>
+                        <span>宁波</span>
                     </div>
                 </el-card>
                 <el-card shadow="hover" style="height:252px;">
@@ -126,7 +126,7 @@ export default {
             name: localStorage.getItem("ms_username"),
             todoList: [
                 {
-                    title: "今天要喝10吨水",
+                    title: "今天天气很热",
                     status: false
                 },
                 {
