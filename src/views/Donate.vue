@@ -3,12 +3,12 @@
         <div class="crumbs">
             <el-breadcrumb separator="/">
                 <el-breadcrumb-item>
-                    <i class="el-icon-lx-redpacket_fill"></i> 支持作者
+                    <i class="el-icon-lx-redpacket_fill"></i> 和我联系
                 </el-breadcrumb-item>
             </el-breadcrumb>
         </div>
         <div class="container">
-            <div class="plugins-tips">如果该框架对你有帮助，那就请作者喝杯水吧，添加以下公众号一起学习吧，精品干货，持续输出。</div>
+            <div class="plugins-tips">加入我，和我一块学习吧！</div>
             <div>
                 <img src="../assets/img/about-me.jpg" />
             </div>

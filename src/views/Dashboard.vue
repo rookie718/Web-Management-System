@@ -127,7 +127,7 @@ export default {
             todoList: [
                 {
                     title: "窗外的麻雀在电线杆上多嘴",
-                    status: false
+                    status: true
                 },
                 {
                     title: "你说这一句很有夏天的感觉",
@@ -143,7 +143,7 @@ export default {
                 },
                 {
                     title: "秋刀鱼的滋味猫跟你都想了解",
-                    status: false
+                    status: true
                 },
                 {
                     title: "初恋的香味就这样被我们寻回",
