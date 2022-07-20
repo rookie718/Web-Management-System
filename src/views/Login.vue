@@ -1,7 +1,7 @@
 <template>
   <div class="login-wrap">
     <div class="login-content">
-      <div class="login-title">不高兴就喝水</div>
+      <div class="login-title">后台管理系统</div>
       <el-form
         :model="param"
         :rules="rules"
