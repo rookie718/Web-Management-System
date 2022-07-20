@@ -126,57 +126,57 @@ export default {
             name: localStorage.getItem("ms_username"),
             todoList: [
                 {
-                    title: "今天天气很热",
+                    title: "窗外的麻雀在电线杆上多嘴",
                     status: false
                 },
                 {
-                    title: "今天要喝10吨水",
+                    title: "你说这一句很有夏天的感觉",
                     status: false
                 },
                 {
-                    title: "今天要喝10吨水",
+                    title: "手中的铅笔在纸上来来回回",
                     status: false
                 },
                 {
-                    title: "我要打10个",
+                    title: "我用几行字形容你是我的谁",
                     status: false
                 },
                 {
-                    title: "今天要喝10吨水",
+                    title: "秋刀鱼的滋味猫跟你都想了解",
                     status: false
                 },
                 {
-                    title: "今天要喝10吨水",
+                    title: "初恋的香味就这样被我们寻回",
                     status: false
                 },
             ],
             data: [
                 {
-                    name: "2018/09/04",
+                    name: "2022/05/04",
                     value: 1083
                 },
                 {
-                    name: "2018/09/05",
+                    name: "2022/05/05",
                     value: 941
                 },
                 {
-                    name: "2018/09/06",
+                    name: "2022/05/06",
                     value: 1139
                 },
                 {
-                    name: "2018/09/07",
+                    name: "2022/05/07",
                     value: 816
                 },
                 {
-                    name: "2018/09/08",
+                    name: "2022/05/08",
                     value: 327
                 },
                 {
-                    name: "2018/09/09",
+                    name: "2022/05/09",
                     value: 228
                 },
                 {
-                    name: "2018/09/10",
+                    name: "2022/05/10",
                     value: 1065
                 }
             ],
