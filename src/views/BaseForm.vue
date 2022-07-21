@@ -79,50 +79,50 @@ export default {
         return {
             options: [
                 {
-                    value: 'guangdong',
-                    label: '广东省',
+                    value: 'zhejiang',
+                    label: '浙江省',
                     children: [
                         {
-                            value: 'guangzhou',
-                            label: '广州市',
+                            value: 'ningbo',
+                            label: '宁波市',
                             children: [
                                 {
-                                    value: 'tianhe',
-                                    label: '天河区'
+                                    value: 'yinzhou',
+                                    label: '鄞州区'
                                 },
                                 {
-                                    value: 'haizhu',
-                                    label: '海珠区'
+                                    value: 'haishu',
+                                    label: '海曙区'
                                 }
                             ]
                         },
                         {
-                            value: 'dongguan',
-                            label: '东莞市',
+                            value: 'hangzhou',
+                            label: '杭州市',
                             children: [
                                 {
-                                    value: 'changan',
-                                    label: '长安镇'
+                                    value: 'binjiang',
+                                    label: '滨江区'
                                 },
                                 {
-                                    value: 'humen',
-                                    label: '虎门镇'
+                                    value: 'xihu',
+                                    label: '西湖区'
                                 }
                             ]
                         }
                     ]
                 },
                 {
-                    value: 'hunan',
-                    label: '湖南省',
+                    value: '江苏',
+                    label: '江苏省',
                     children: [
                         {
-                            value: 'changsha',
-                            label: '长沙市',
+                            value: 'nanjing',
+                            label: '南京市',
                             children: [
                                 {
-                                    value: 'yuelu',
-                                    label: '岳麓区'
+                                    value: 'jiangning',
+                                    label: '江宁区'
                                 }
                             ]
                         }
